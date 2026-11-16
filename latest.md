@@ -1,8 +1,8 @@
 # Willys Göteborg Gamlestaden – erbjudanden
 
 Gäller sammanställning 2026-11-16. Butik 2111.
-Senaste lyckade hämtning: 2026-11-16T13:06:32.119000+00:00.
-Senaste lyckade import: 2026-11-16T13:40:08.679852+00:00. Källa: HAR (manuell export).
+Senaste lyckade hämtning: 2026-11-16T14:15:34.611400+00:00.
+Senaste lyckade import: 2026-11-16T14:15:34.638934+00:00. Källa: anonym HTTP.
 Aktuella erbjudanden: **257**. Nya sedan föregående lyckade sammanställning: **257**.
 Föregående sammanställning: saknas – första importen.
 
